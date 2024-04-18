@@ -1,0 +1,14 @@
+{
+  "pins" : [
+    {
+      "identity" : "sqlite.swift",
+      "kind" : "remoteSourceControl",
+      "location" : "https://github.com/stephencelis/SQLite.swift.git",
+      "state" : {
+        "revision" : "e5e833921a8f98870e547e428df017c266cd98f2",
+        "version" : "0.15.2"
+      }
+    }
+  ],
+  "version" : 2
+}
